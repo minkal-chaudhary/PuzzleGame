@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.event.*;
 class PuzzleGame implements ActionListener
 {
+//added comment.
 JFrame f;
 JButton b[];
 JButton full;
